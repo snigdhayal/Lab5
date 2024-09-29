@@ -14,7 +14,6 @@ cd Lab5
 cd helloworld_project
 ```
 
-__Note: Change the `your-username` with your GitHub username__
 
 - Run the dev server
 
